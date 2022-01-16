@@ -1,3 +1,5 @@
+# Ewing35 kanalında izin alınarak videosu çekilmiştir.
+
 # Astpod#1411 & Cardea#2787
 
 # Kurulum
